@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Romain-Pailler
 - 👀 I’m interested in VolleyBall 
-- 🌱 I’m currently learning Swift 
-- 💞️ I’m looking to collaborate on iOs projects
+- 🌱 I’m currently learning HTML/CSS/JS/PHP 
+- 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me : romain.pailler@icloud.com
 
 <!---
